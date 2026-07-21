@@ -13,7 +13,7 @@ import Moods from "./pages/Moods";
 import Songs from "./pages/Songs";
 import Favorites from "./pages/Favorites";
 import Playlist from "./pages/Playlist";
-import Login from "./pages/Login";
+import Login from "./pages/login";
 import Signup from "./pages/Signup";
 import NowPlaying from "./pages/NowPlaying";
 
